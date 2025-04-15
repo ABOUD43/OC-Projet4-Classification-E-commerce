@@ -1,4 +1,4 @@
-# OC-Projet4-Classification-E-commerce
+# OC-Segementation-client-site-E-commerce
 
 ![logo](https://github.com/ABOUD43/OC-Projet4-Classification-E-commerce/blob/main/image/logo.png)
 
