@@ -17,3 +17,9 @@ Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.
 
 ## Source de données 
  [Site officiel](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+
+ ## Notebook Google Colab
+
+Tu peux consulter l'intégralité de l'analyse ici : 
+[Ouvrir dans Google Colab](https://colab.research.google.com/drive/1mnqmxTnA36PC4DNTxIB036GPkPssUhZ5?usp=sharing)
+
