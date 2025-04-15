@@ -9,7 +9,7 @@ afin de mieux comprendre les différents types d'utilisateurs du site Olist, gr�
 Objectifs de l'etude :
 - Proposer une segmentation de clients pour le site Olist
 - Evaluer la fréquence de mise à jour de cette segmentation en vue d’établir un contrat de maintenance
-- 
+  
 ## Cahier des charges OpenClassrooms
 
 Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.  
